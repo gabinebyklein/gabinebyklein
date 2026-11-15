@@ -8,5 +8,6 @@ Je m'intéresse à la banque d'investissement, aux marchés financiers et à la 
 | Projet | En bref |
 |---|---|
 | [Analyste IA](https://github.com/gabinebyklein/analyste-ia) | Rapport annuel PDF → fiche d'analyse d'une page : ratios, DCF, comparables. L'IA lit, Python vérifie chaque chiffre sur sa page source et fait tous les calculs. Exemple : LVMH 2025. |
+| [Simulateur d'enveloppes](https://github.com/gabinebyklein/simulateur-epargne) | PEA, assurance-vie ou compte-titres : ce qui reste au client après impôts et frais, règles fiscales 2026, 1 000 scénarios de marché. [Essayer en ligne](https://simulateur-epargne-indol.vercel.app) |
 
 **Outils** : Python, Excel, API Claude · **Langues** : français, anglais, espagnol
